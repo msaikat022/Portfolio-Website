@@ -16,3 +16,9 @@
 footer {
   min-height: 30vh;
 }
+.brands {
+  /* transition: transform 0.7s ease-in-out; */
+}
+.brands :hover {
+  transform: rotate(360deg);
+}
